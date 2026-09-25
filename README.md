@@ -153,9 +153,10 @@ decodelabs-java-p1-number-game/
 
 ## 👤 Author
 
-**YOUR NAME**: DecodeLabs Java Programming Intern, Batch 2026
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+**TOUSEEF AKBAR** : DecodeLabs Java Programming Intern, Batch 2026
 
+* 🐙 **GitHub:** [Algorithm-Matrix](https://github.com/Algorithm-Matrix)
+* 💼 **LinkedIn:** [Touseef Akbar](https://www.linkedin.com/in/touseef-akbar-2b968a436/)
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
